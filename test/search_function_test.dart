@@ -1,4 +1,4 @@
-import 'package:search_function/src/search_function_base.dart';
+import 'package:search_function/search_function.dart';
 import 'package:test/test.dart';
 
 void main() {
