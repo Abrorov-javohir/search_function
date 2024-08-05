@@ -1,7 +1,8 @@
 name: search_function
 description: You can search with binary,linear and jump search. It is very comfortable to use.
-version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+version: 1.0.1
+homepage: https://github.com/Abrorov-javohir/search_function
+repository: https://github.com/Abrorov-javohir/search_function
 
 environment:
   sdk: ^3.6.0-114.0.dev
