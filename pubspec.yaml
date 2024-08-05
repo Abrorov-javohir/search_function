@@ -1,0 +1,15 @@
+name: search_function
+description: You can search with binary,linear and jump search. It is very comfortable to use.
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: ^3.6.0-114.0.dev
+
+# Add regular dependencies here.
+dependencies:
+  # path: ^1.8.0
+
+dev_dependencies:
+  lints: ^4.0.0
+  test: ^1.24.0
